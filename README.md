@@ -1,6 +1,10 @@
 <img src="Github Banner.png" alt="banner" width="100%"/>
 
-## 👋 Hi, I'm Chimaroke Amadi
+# 👋 Hi, I'm Chimaroke Amadi
+
+- 🌱 Frontend Developer specializing in React.js & Next.js
+
+### Languages and Tools 🛠️
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -10,7 +14,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 
-- 🌱 Frontend Developer specializing in React.js & Next.js
+
 - 🧠 Currently learning Web3 integrations
 - 🚀 Recent project: [Travel Website](https://www.fairsuretravel.com.ng/)
 - 🔗 Portfolio: [chimaroke.pages.dev](https://chimaroke.pages.dev)
