@@ -19,4 +19,5 @@
 - 🚀 Recent project: [Travel Website](https://www.fairsuretravel.com.ng/)
 - 🔗 Portfolio: [chimaroke.pages.dev](https://chimaroke.pages.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chimarokeAmadi&show_icons=true)
+![Chimaroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimaroke&show_icons=true&theme=radical&border_radius=10)
+
