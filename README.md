@@ -1,3 +1,5 @@
+<img src="Github Banner.png" alt="banner" width="100%"/>
+
 ## 👋 Hi, I'm Chimaroke Amadi
 
 - 🌱 Frontend Developer specializing in React.js & Next.js
