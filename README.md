@@ -2,6 +2,11 @@
 
 <h1>Hi, I'm Chimaroke Amadi</h1>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /> 
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+
+
 
 
 <p align="center"> - 👨🏻‍💻 Frontend Developer specializing in React.js & Next.js </p>
