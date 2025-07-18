@@ -21,6 +21,3 @@
 
 ![Chimaroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimarokeAmadi&show_icons=true&theme=tokyonight&border_radius=10)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chimaroke&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12)
-
-
