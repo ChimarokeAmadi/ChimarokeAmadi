@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chimaroke Amadi
 
-- 🌱 Frontend Developer specializing in React.js & Next.js
+<- 🌱 Frontend Developer specializing in React.js & Next.js
 
 ### Languages and Tools 🛠️
 
