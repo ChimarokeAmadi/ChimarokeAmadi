@@ -1,4 +1,4 @@
-<img src="Github Banner.png" alt="banner" width="100%"/>
+<img src="Github Banner2.png" alt="banner" width="100%"/>
 
 # 👋 Hi, I'm Chimaroke Amadi
 
