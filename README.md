@@ -4,7 +4,7 @@
 
 <p align="center"> - 🌱 Frontend Developer specializing in React.js & Next.js </p>
 
-### Languages and Tools 🛠️
+<p align="center"> ### Languages and Tools 🛠️
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -19,5 +19,6 @@
 - 🚀 Recent project: [Travel Website](https://www.fairsuretravel.com.ng/)
 - 🔗 Portfolio: [chimaroke.pages.dev](https://chimaroke.pages.dev)
 
-![Chimaroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimarokeAmadi&show_icons=true&theme=tokyonight&border_radius=10)
+![Chimaroke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimarokeAmadi&show_icons=true&theme=tokyonight&border_radius=10)</p>
+
 
