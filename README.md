@@ -1,6 +1,7 @@
 <img src="Github Banner2.png" alt="banner" width="100%"/>
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> <h1>Hi, I'm Chimaroke Amadi</h1>
+<h1>Hi, I'm Chimaroke Amadi</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /> 
 
 
 <p align="center"> - 👨🏻‍💻 Frontend Developer specializing in React.js & Next.js </p>
