@@ -1,6 +1,6 @@
 <img src="Github Banner2.png" alt="banner" width="100%"/>
 
-<img src="https://media.giphy.com/media/l41lUJ8zX7Y0e3d5a/giphy.gif" width="200" /><h1>Hi, I'm Chimaroke Amadi</h1>
+<img src="https://media.giphy.com/media/k4VHbNR9LWN3K/giphy.gif" width="300" /><h1>Hi, I'm Chimaroke Amadi</h1>
 
 
 
